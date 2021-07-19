@@ -1,0 +1,19 @@
+.mainContent{
+	align-self: center;
+width: 500px;
+height: 1000px;
+margin-left: 350px;
+margin-right: 200px;
+align-items: center;
+background-color: blue;
+color:white;
+
+}
+
+.navbar{
+	background-color: pink;
+}
+
+#collapsable-nav ul#nav-list {
+	background-color: yellow;
+}
